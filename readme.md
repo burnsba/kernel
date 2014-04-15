@@ -1,3 +1,6 @@
+From tutorial at http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
+
+
 Build with:
 
     nasm -f elf32 kernel.asm -o kasm.o
